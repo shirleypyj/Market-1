@@ -19,8 +19,8 @@
 ## 目录
     
 - [安装 `gaiacli`](#安装-gaiacli)
-- [Cosmos账户](#cosmos-accounts)
-    + [通过募资人恢复一个账户](#restoring-an-account-from-the-fundraiser)
+- [Cosmos账户](#cosmos-账户)
+    + [通过募资人恢复一个账户](#通过募资人恢复一个账户)
     + [创建一个账户](#creating-an-account)
 - [访问Cosmos Hub网络](#accessing-the-cosmos-hub-network)
     + [运行您自己的全节点](#running-your-own-full-node)
