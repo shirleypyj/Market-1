@@ -384,7 +384,7 @@ fees = gas * gasPrices
 
 交易的`fees` 是`gas` 和 `gasPrice`的乘积。作为一个用户，你需要输入3个参数中至少2个， `gasPrice`/`fees`的值越大，您的交易就越有机会被打包执行。 
 
-### 抵押Atom通证 & 提取奖励
+### 抵押Atom通证&提取奖励
 
 ::: 提示
 **在您抵押通证或取回奖励之前，您需要完成[`gaiacli` 设置](#setting-up-gaiacli) 和 [创建账户](#creating-an-account)**
