@@ -267,7 +267,7 @@ gaiacli keys add <yourKeyName> --recover --account 1
 
 连接到其他人提供的全节点，你需要一个全节点地址，如`https://77.87.106.33:26657`。这个地址是您的供应商提供的一个可信的接入地址。你会在下一节中用到这个地址。 
 
-## 设置 `gaiacli`
+## 设置`gaiacli`
 
 ::: 提示
 
