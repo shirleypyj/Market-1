@@ -139,7 +139,7 @@ Cosmos地址是一个以可读词开头的字符串(比如`cosmos10snjt8dmpr5my0
 现在，您的钱包已经正确地设置好您在众筹时获得的助记词，切勿丢失！任何时候您的钱包设备出现问题，您都可以通过助记词在一个新的钱包设备上恢复所有账户。 
 
 
-接下来，请点击[这里](#using-a-ledger-device)来学习如何生成一个账户。
+接下来，请点击[这里](#使用硬件钱包设备进行操作)来学习如何生成一个账户。
 
 #### 在电脑上操作
 
@@ -257,7 +257,7 @@ gaiacli keys add <yourKeyName> --recover --account 1
 这是最安全的途径，但需要相当多的资源。您需要有较大的带宽和至少1TB的磁盘容量来运行一个全节点。  
 
 
- `gaiad`的安装教程在[这里](https://cosmos.network/docs/gaia/installation.html)， 如何运行一个全节点指导在[这里](https://cosmos.network/docs/gaia/join-testnet.html)
+ `gaia`的安装教程在[这里](https://cosmos.network/docs/gaia/installation.html)， 如何运行一个全节点指导在[这里](https://cosmos.network/docs/gaia/join-testnet.html)
 
 ### 连接到一个远程全节点
 
