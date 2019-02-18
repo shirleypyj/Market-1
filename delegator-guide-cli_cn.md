@@ -271,7 +271,7 @@ gaiacli keys add <yourKeyName> --recover --account 1
 
 ::: 提示
 
-**在开始设置 `gaiacli`前，请确认你已经可以[访问Cosmos Hub网络](#accessing-the-cosmos-hub-network)**
+**在开始设置 `gaiacli`前，请确认你已经可以[访问Cosmos Hub网络](#访问cosmos-hub网络)**
 :::
 
 ::: 警告
