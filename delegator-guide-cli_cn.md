@@ -22,10 +22,10 @@
 - [Cosmos账户](#Cosmos账户)
     + [通过募资人恢复一个账户](#通过募资人恢复一个账户)
     + [创建一个账户](#创建一个账户)
-- [访问Cosmos Hub网络](#访问CosmosHub网络)
+- [访问Cosmos Hub网络](#访问Cosmos-Hub网络)
     + [运行您自己的全节点](#运行您自己的全节点)
     + [连接到一个远程全节点](#连接到一个远程全节点)
-- [设置`gaiacli`](#设置`gaiacli`)
+- [设置`gaiacli`](#设置-`gaiacli`)
 - [状态查询](#状态查询)
 - [发起交易](#发起交易)
     + [关于gas费和手续费](#关于gas费和手续费)
@@ -241,7 +241,7 @@ gaiacli keys add <yourKeyName> --recover --account 1
 
 这条命令需要您输入一个密码。改变账号就代表生成了一个新的账户。  
 
-## 访问CosmosHub网络
+## 访问Cosmos Hub网络
 
 
 为了查询网络状态和发起交易，你需要通过自建一个全节点，或者连接到其他人的全节点访问Cosmos Hub网络
@@ -267,7 +267,7 @@ gaiacli keys add <yourKeyName> --recover --account 1
 
 连接到其他人提供的全节点，你需要一个全节点地址，如`https://77.87.106.33:26657`。这个地址是您的供应商提供的一个可信的接入地址。你会在下一节中用到这个地址。 
 
-## 设置`gaiacli`
+## 设置 `gaiacli`
 
 ::: 提示
 
