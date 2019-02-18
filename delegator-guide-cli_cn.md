@@ -241,7 +241,7 @@ gaiacli keys add <yourKeyName> --recover --account 1
 
 这条命令需要您输入一个密码。改变账号就代表生成了一个新的账户。  
 
-## 访问Cosmos Hub网络
+## 访问CosmosHub网络
 
 
 为了查询网络状态和发起交易，你需要通过自建一个全节点，或者连接到其他人的全节点访问Cosmos Hub网络
