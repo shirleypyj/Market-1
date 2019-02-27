@@ -509,7 +509,7 @@ cat unsignedTx.json
 现在，通过以下命令对交易签名：
 
 ```bash
-gaiacli tx sign unsignedTx.json --from <delegatorKeyName> > signedTx.json
+gaiacli tx sign unsignedTx.json --from-addr <delegatorAddr>> signedTx.json
 ```
 
 复制 `signedTx.json` 并转移回联网的那台电脑。最后，用以下命令向网络广播交易。 
