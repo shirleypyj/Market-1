@@ -311,7 +311,7 @@ gaiacli config trust-node false
 // Set to true if you run a light-client node, false otherwise
 ```
 
-最后，让我们设置需要访问的区块链的 `chain-id` 
+最后，让我们设置需要访问区块链的 `chain-id` 
 
 ```bash
 gaiacli config chain-id gos-6
